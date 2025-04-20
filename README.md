@@ -247,6 +247,8 @@ $$
 \mathcal{L}_{\text{bpr}} = \ell^{G}_{\text{bpr}} + \ell^{G_1}_{\text{bpr}} + \ell^{G_2}_{\text{bpr}}
 $$
 
+Полная функция ошибки TagRec описывается как: $\mathcal{L} = \mathcal{L}_{sim} + \mathcal{L}_{cl} + \mathcal{L}_{bpr}$
+
 ## Критерии оценивания
 
 | №  | Компонент задания                                                                                 | Баллы | Описание                                                                                         |
